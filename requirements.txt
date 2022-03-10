@@ -1,0 +1,6 @@
+typing==3.7.4.3
+python-dotenv==0.19.2
+dnspython==2.2.1
+pymongo==3.10.1
+boto3==1.21.14
+tensorflow==2.7.0
